@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/msboffl/leetcode-answers/tree/master/3396-valid-word) |
+## Array
+|  |
+| ------- |
+| [1580-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1580-shuffle-the-array) |
 <!---LeetCode Topics End-->
