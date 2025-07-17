@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/msboffl/leetcode-answers/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/msboffl/leetcode-answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/msboffl/leetcode-answers/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1580-shuffle-the-array) |
