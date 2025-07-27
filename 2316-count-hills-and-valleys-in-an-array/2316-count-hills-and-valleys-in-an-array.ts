@@ -1,18 +1,20 @@
 function countHillValley(nums: number[]): number {
     const n = nums.length;
-    //Remove Duplicates
-    const filterArr = [];
-    for(let i = 0; i < n; i++) {
-        if(i === 0 || nums[i] !== nums[i-1]) {
-            filterArr.push(nums[i]);
-        }
-    }
-    // console.log(filterArr);
 
     let count = 0;
-    for(let i = 1; i < filterArr.length-1; i++) {
-        if(filterArr[i] > filterArr[i-1] && filterArr[i] > filterArr[i+1]) count++;
-        if(filterArr[i] < filterArr[i-1] && filterArr[i] < filterArr[i+1]) count++;
+    for(let i = 1; i < n-1; i++) {
+        let left = i - 1;
+        while(left >= 0 && nums[left] === nums[i]) left--;
+        let right = i + 1;
+        while(right < n && nums[right] === nums[i]) right++;
+
+        if(left >= 0 && right < n) {
+            if(nums[i] > nums[left] && nums[i] > nums[right]) count++; 
+            else if(nums[i] < nums[left] && nums[i] < nums[right]) count++; 
+        }
+
+        i = right - 1;
     }
+
     return count;
 };
