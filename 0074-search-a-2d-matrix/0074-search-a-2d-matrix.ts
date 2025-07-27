@@ -2,11 +2,17 @@ function searchMatrix(matrix: number[][], target: number): boolean {
     const rows = matrix.length;
     const cols = matrix[0].length;
 
-    for(let i = 0; i < rows; i++) {
-        for(let j = 0; j < cols; j++) {
-            if(matrix[i][j] === target) return true
-        }
+    let left = 0;
+    let right = rows * cols - 1;
+    while(left <= right) {
+        let mid = Math.floor((left + right) / 2);
+        let row = Math.floor(mid / cols);
+        let col = mid % cols;
+
+        if(matrix[row][col] === target) return true;
+        else if(matrix[row][col] < target) left = mid + 1;
+        else right = mid - 1;
     }
 
-    return false;
+    return false; 
 };
