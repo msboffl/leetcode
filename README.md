@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/msboffl/leetcode-answers/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/msboffl/leetcode-answers/tree/master/1603-running-sum-of-1d-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/msboffl/leetcode-answers/tree/master/2181-smallest-index-with-equal-value) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
