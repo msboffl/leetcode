@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/msboffl/leetcode-answers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/msboffl/leetcode-answers/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/msboffl/leetcode-answers/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/msboffl/leetcode-answers/tree/master/0283-move-zeroes) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/msboffl/leetcode-answers/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
