@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/msboffl/leetcode-answers/tree/master/3582-find-indices-of-stable-mountains) |
 | [3723-sum-of-good-numbers](https://github.com/msboffl/leetcode-answers/tree/master/3723-sum-of-good-numbers) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/msboffl/leetcode-answers/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -104,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
