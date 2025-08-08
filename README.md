@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/msboffl/leetcode-answers/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/msboffl/leetcode-answers/tree/master/3396-valid-word) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/msboffl/leetcode-answers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/msboffl/leetcode-answers/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/msboffl/leetcode-answers/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
