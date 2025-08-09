@@ -1,18 +1,10 @@
 function findGCD(nums: number[]): number {
-    let minNum = nums[0];
-    let maxNum = nums[0]
-    for(let i = 1; i < nums.length; i++) {
-        if(nums[i] < minNum) minNum = nums[i];
-        if(nums[i] > maxNum) maxNum = nums[i];
+    let a = Math.min(...nums);
+    let b = Math.max(...nums);
 
-    }
-    
-    let gcdVal = 1;
-    for(let i = 1; i <= minNum; i++) {
-        if(minNum % i === 0 && maxNum % i === 0) {
-            gcdVal = i
-        }
+    while(b != 0) {
+        [a, b] = [b, a % b];
     }
 
-    return gcdVal;
+    return a;
 };
