@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/msboffl/leetcode-answers/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/msboffl/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/msboffl/leetcode-answers/tree/master/1293-three-consecutive-odds) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
