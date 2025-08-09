@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/msboffl/leetcode-answers/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/msboffl/leetcode-answers/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/msboffl/leetcode-answers/tree/master/2181-smallest-index-with-equal-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/msboffl/leetcode-answers/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/msboffl/leetcode-answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/msboffl/leetcode-answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
