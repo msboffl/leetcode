@@ -1,10 +1,8 @@
 function isPowerOfTwo(n: number): boolean {
     if(n <= 0) return false;
-
-    let val = 1;
-    while(val < n) {
-        val *= 2;
+    for(let i = 0; 2**i <= n; i++) {
+        if(2**i == n) return true;
     }
 
-    return val == n;
+    return false;
 };
