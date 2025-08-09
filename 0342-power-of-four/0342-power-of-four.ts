@@ -1,9 +1,9 @@
 function isPowerOfFour(n: number): boolean {
     if(n <= 0) return false;
-    let val = 1;
-    while(val < n) {
-        val = val * 4
-    }
+    
+    while(n % 4 === 0) {
+        n /= 4
+    } 
 
-    return (val === n);
+    return n === 1;
 };
