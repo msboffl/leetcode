@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/msboffl/leetcode-answers/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 ## Greedy
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
