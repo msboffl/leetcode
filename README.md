@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/msboffl/leetcode-answers/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/msboffl/leetcode-answers/tree/master/1894-merge-strings-alternately) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/msboffl/leetcode-answers/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/msboffl/leetcode-answers/tree/master/3396-valid-word) |
 ## Array
 |  |
