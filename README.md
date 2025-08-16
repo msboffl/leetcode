@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/msboffl/leetcode-answers/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/msboffl/leetcode-answers/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/msboffl/leetcode-answers/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/msboffl/leetcode-answers/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/msboffl/leetcode-answers/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/msboffl/leetcode-answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/msboffl/leetcode-answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
