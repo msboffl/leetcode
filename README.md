@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/msboffl/leetcode-answers/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/msboffl/leetcode-answers/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/msboffl/leetcode-answers/tree/master/1448-maximum-69-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/msboffl/leetcode-answers/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/msboffl/leetcode-answers/tree/master/0118-pascals-triangle) |
 | [0647-palindromic-substrings](https://github.com/msboffl/leetcode-answers/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/msboffl/leetcode-answers/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/msboffl/leetcode-answers/tree/master/0867-new-21-game) |
 ## Recursion
 |  |
 | ------- |
