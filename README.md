@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/msboffl/leetcode-answers/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2556-convert-the-temperature](https://github.com/msboffl/leetcode-answers/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/msboffl/leetcode-answers/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/msboffl/leetcode-answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Prefix Sum
