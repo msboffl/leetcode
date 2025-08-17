@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/msboffl/leetcode-answers/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/msboffl/leetcode-answers/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/msboffl/leetcode-answers/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/msboffl/leetcode-answers/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/msboffl/leetcode-answers/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/msboffl/leetcode-answers/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/msboffl/leetcode-answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
