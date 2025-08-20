@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/msboffl/leetcode-answers/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/msboffl/leetcode-answers/tree/master/1293-three-consecutive-odds) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/msboffl/leetcode-answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/msboffl/leetcode-answers/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1580-shuffle-the-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/msboffl/leetcode-answers/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/msboffl/leetcode-answers/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/msboffl/leetcode-answers/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
