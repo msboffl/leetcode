@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/msboffl/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/msboffl/leetcode-answers/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0345-reverse-vowels-of-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/msboffl/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/msboffl/leetcode-answers/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/msboffl/leetcode-answers/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/msboffl/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
