@@ -9,6 +9,6 @@ function reverse(x: number): number {
         num = Math.floor(num / 10);
     }
 
-    if(rev > 2**31 - 1) return 0;
+    if(rev > 2**31 - 1 || rev < -(2 ** 31)) return 0;
     return neg ? -rev: rev;
 };
