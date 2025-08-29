@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/msboffl/leetcode-answers/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/msboffl/leetcode-answers/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/msboffl/leetcode-answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/msboffl/leetcode-answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3567-convert-date-to-binary](https://github.com/msboffl/leetcode-answers/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/msboffl/leetcode-answers/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Prefix Sum
