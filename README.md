@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/msboffl/leetcode-answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/msboffl/leetcode-answers/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/msboffl/leetcode-answers/tree/master/2181-smallest-index-with-equal-value) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/msboffl/leetcode-answers/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/msboffl/leetcode-answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
