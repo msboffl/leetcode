@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/msboffl/leetcode-answers/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/msboffl/leetcode-answers/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/msboffl/leetcode-answers/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/msboffl/leetcode-answers/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/msboffl/leetcode-answers/tree/master/3429-special-array-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/msboffl/leetcode-answers/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/msboffl/leetcode-answers/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/msboffl/leetcode-answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/msboffl/leetcode-answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3567-convert-date-to-binary](https://github.com/msboffl/leetcode-answers/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/msboffl/leetcode-answers/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/msboffl/leetcode-answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Sliding Window
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/msboffl/leetcode-answers/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
