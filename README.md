@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3723-sum-of-good-numbers](https://github.com/msboffl/leetcode-answers/tree/master/3723-sum-of-good-numbers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/msboffl/leetcode-answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/msboffl/leetcode-answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/msboffl/leetcode-answers/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/msboffl/leetcode-answers/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/msboffl/leetcode-answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3567-convert-date-to-binary](https://github.com/msboffl/leetcode-answers/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/msboffl/leetcode-answers/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/msboffl/leetcode-answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/msboffl/leetcode-answers/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/msboffl/leetcode-answers/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/msboffl/leetcode-answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Enumeration
 |  |
 | ------- |
