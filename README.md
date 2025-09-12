@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/msboffl/leetcode-answers/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/msboffl/leetcode-answers/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/msboffl/leetcode-answers/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/msboffl/leetcode-answers/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/msboffl/leetcode-answers/tree/master/0231-power-of-two) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/msboffl/leetcode-answers/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/msboffl/leetcode-answers/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/msboffl/leetcode-answers/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
