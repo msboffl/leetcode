@@ -1,8 +1,20 @@
 function mySqrt(x: number): number {
     if(x === 0 || x === 1) return x;
 
-    let r = 1;
-    while(r * r <= x) r++;
+    let left = 1;
+    let right = Math.floor(x/2);
+    let ans = 0
+    while(left <= right) {
+        let mid = left + Math.floor((right-left)/2);
+        if(mid * mid == x) return mid;
+        else if(mid * mid < x) {
+            ans = mid;
+            left = mid + 1  
+        } else {
+            // ans = mid;
+            right = mid - 1;
+        }
+    }
 
-    return r - 1;
+    return ans;
 };
