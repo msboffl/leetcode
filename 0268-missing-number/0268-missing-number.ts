@@ -1,11 +1,12 @@
 function missingNumber(nums: number[]): number {
     const n = nums.length;
 
-    nums.sort((a, b) => a - b);
+    const expectedSum = (n * (n + 1)) / 2;
 
+    let totalSum = 0
     for(let i = 0; i < n; i++) {
-        if(i !== nums[i]) return i;
+        totalSum += nums[i];
     }
 
-    return nums[n-1] + 1;
+    return expectedSum - totalSum
 };
