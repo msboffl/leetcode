@@ -1,12 +1,25 @@
 function pivotArray(nums: number[], pivot: number): number[] {
     const n = nums.length;
-    const pl = [], pr = [], pe = [];
-    
-    for(let i = 0; i < n; i++) {
-        if(nums[i] < pivot) pl.push(nums[i])
-        else if(nums[i] > pivot) pr.push(nums[i])
-        else pe.push(nums[i]);
+    const ans = new Array(n).fill(0);
+
+    let left = 0, right = n - 1;
+
+    for (let i = 0, j = n - 1; i < n; i++, j--) {
+        if (nums[i] < pivot) { 
+            ans[left] = nums[i];
+            left++
+        }
+
+        if(nums[j] > pivot) {
+            ans[right] = nums[j];
+            right--;
+        }
     }
 
-    return [...pl, ...pe, ...pr];
+    while(left <= right) {
+        ans[left] = pivot;
+        left++;
+    }
+
+    return ans;
 };
