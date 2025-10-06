@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/msboffl/leetcode-answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/msboffl/leetcode-answers/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1628-count-submatrices-with-all-ones) |
+| [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/msboffl/leetcode-answers/tree/master/2048-build-array-from-permutation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/msboffl/leetcode-answers/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/msboffl/leetcode-answers/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/msboffl/leetcode-answers/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/msboffl/leetcode-answers/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/msboffl/leetcode-answers/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
+| [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/msboffl/leetcode-answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
