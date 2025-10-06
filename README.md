@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/msboffl/leetcode-answers/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/msboffl/leetcode-answers/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/2887-sort-vowels-in-a-string) |
+| [3194-find-words-containing-character](https://github.com/msboffl/leetcode-answers/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/msboffl/leetcode-answers/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/msboffl/leetcode-answers/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/msboffl/leetcode-answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/msboffl/leetcode-answers/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/msboffl/leetcode-answers/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/msboffl/leetcode-answers/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/msboffl/leetcode-answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
