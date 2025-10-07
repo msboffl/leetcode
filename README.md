@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/msboffl/leetcode-answers/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msboffl/leetcode-answers/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/msboffl/leetcode-answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/msboffl/leetcode-answers/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1580-shuffle-the-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/msboffl/leetcode-answers/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/msboffl/leetcode-answers/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msboffl/leetcode-answers/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msboffl/leetcode-answers/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/msboffl/leetcode-answers/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/msboffl/leetcode-answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msboffl/leetcode-answers/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
