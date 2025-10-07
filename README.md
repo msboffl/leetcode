@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/msboffl/leetcode-answers/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
+| [2714-left-and-right-sum-differences](https://github.com/msboffl/leetcode-answers/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/msboffl/leetcode-answers/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/msboffl/leetcode-answers/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/msboffl/leetcode-answers/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/msboffl/leetcode-answers/tree/master/1603-running-sum-of-1d-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
+| [2714-left-and-right-sum-differences](https://github.com/msboffl/leetcode-answers/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
