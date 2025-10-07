@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/msboffl/leetcode-answers/tree/master/3429-special-array-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/msboffl/leetcode-answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/msboffl/leetcode-answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/msboffl/leetcode-answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/msboffl/leetcode-answers/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/msboffl/leetcode-answers/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/msboffl/leetcode-answers/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/msboffl/leetcode-answers/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/msboffl/leetcode-answers/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/msboffl/leetcode-answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/msboffl/leetcode-answers/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/msboffl/leetcode-answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/msboffl/leetcode-answers/tree/master/3830-find-closest-person) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/msboffl/leetcode-answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/msboffl/leetcode-answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
