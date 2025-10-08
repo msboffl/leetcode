@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/msboffl/leetcode-answers/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3723-sum-of-good-numbers](https://github.com/msboffl/leetcode-answers/tree/master/3723-sum-of-good-numbers) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/msboffl/leetcode-answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/msboffl/leetcode-answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/msboffl/leetcode-answers/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/msboffl/leetcode-answers/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
