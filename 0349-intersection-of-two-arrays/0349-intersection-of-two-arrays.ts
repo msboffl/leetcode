@@ -1,14 +1,16 @@
 function intersection(nums1: number[], nums2: number[]): number[] {
-    const st = new Set(nums1);
+    const ans: number[] = [];
 
-    const res = [];
-
-    for(let i = 0; i < nums2.length; i++) {
-        if(st.has(nums2[i])) {
-            res.push(nums2[i])
-            st.delete(nums2[i]);
+    for (let i = 0; i < nums1.length; i++) {
+        for (let j = 0; j < nums2.length; j++) {
+            if (nums1[i] === nums2[j]) {
+                if (!ans.includes(nums1[i])) {  
+                    ans.push(nums1[i]);
+                }
+                break;
+            }
         }
     }
 
-    return res;
-};
+    return ans;
+}
