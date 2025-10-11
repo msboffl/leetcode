@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/msboffl/leetcode-answers/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-sum-of-unique-elements](https://github.com/msboffl/leetcode-answers/tree/master/1848-sum-of-unique-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/msboffl/leetcode-answers/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2058-concatenation-of-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/msboffl/leetcode-answers/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-sum-of-unique-elements](https://github.com/msboffl/leetcode-answers/tree/master/1848-sum-of-unique-elements) |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/msboffl/leetcode-answers/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/msboffl/leetcode-answers/tree/master/1848-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/msboffl/leetcode-answers/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/msboffl/leetcode-answers/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/msboffl/leetcode-answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
