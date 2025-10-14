@@ -3,11 +3,16 @@
  */
 function moveZeroes(nums: number[]): void {
     const n = nums.length;
+
     let index = 0;
-    for(let i = 0; i < n; i++) {
-        if(nums[i] !== 0) {
-            [nums[i], nums[index]] = [nums[index], nums[i]];
-            index++;
+
+    for(let j = 0; j < n; j++) {
+        if(nums[j] !== 0) {
+            nums[index++] = nums[j]
         }
+    }
+
+    for(let i = index; i < n; i++) {
+        nums[i] = 0;
     }
 };
