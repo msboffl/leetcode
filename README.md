@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [0679-24-game](https://github.com/msboffl/leetcode-answers/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/msboffl/leetcode-answers/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/msboffl/leetcode-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/msboffl/leetcode-answers/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/msboffl/leetcode-answers/tree/master/1019-squares-of-a-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/msboffl/leetcode-answers/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/msboffl/leetcode-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/msboffl/leetcode-answers/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
