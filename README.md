@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/msboffl/leetcode-answers/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/msboffl/leetcode-answers/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [0679-24-game](https://github.com/msboffl/leetcode-answers/tree/master/0679-24-game) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/msboffl/leetcode-answers/tree/master/1006-vowel-spellchecker) |
