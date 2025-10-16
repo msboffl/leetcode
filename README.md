@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/msboffl/leetcode-answers/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/msboffl/leetcode-answers/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/msboffl/leetcode-answers/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/msboffl/leetcode-answers/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/msboffl/leetcode-answers/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/msboffl/leetcode-answers/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/msboffl/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/msboffl/leetcode-answers/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/msboffl/leetcode-answers/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/msboffl/leetcode-answers/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/msboffl/leetcode-answers/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/msboffl/leetcode-answers/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
