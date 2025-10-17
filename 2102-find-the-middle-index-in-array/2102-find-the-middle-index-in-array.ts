@@ -1,18 +1,17 @@
 function findMiddleIndex(nums: number[]): number {
     const n = nums.length;
 
-    const leftSum = new Array(n).fill(0);
-    for(let i = 1; i < n; i++) {
-        leftSum[i] = nums[i-1] + leftSum[i-1];
-    }
-
-    const rightSum = new Array(n).fill(0);
-    for(let i = n-2; i >= 0; i--) {
-        rightSum[i] = nums[i+1] + rightSum[i+1]
-    }
-
+    let totalSum = 0;
     for(let i = 0; i < n; i++) {
-        if(leftSum[i] === rightSum[i]) return i
+        totalSum += nums[i];
+    }
+
+    let leftSum = 0;
+    for(let i = 0; i < n; i++) {
+        let rightSum = totalSum - leftSum - nums[i];
+
+        if(leftSum === rightSum) return i;
+        leftSum += nums[i]
     }
 
     return -1;
