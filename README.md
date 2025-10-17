@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/msboffl/leetcode-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [0679-24-game](https://github.com/msboffl/leetcode-answers/tree/master/0679-24-game) |
+| [0724-find-pivot-index](https://github.com/msboffl/leetcode-answers/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/msboffl/leetcode-answers/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/msboffl/leetcode-answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/msboffl/leetcode-answers/tree/master/0940-fruit-into-baskets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/msboffl/leetcode-answers/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/msboffl/leetcode-answers/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/msboffl/leetcode-answers/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/msboffl/leetcode-answers/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
