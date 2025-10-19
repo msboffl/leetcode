@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/msboffl/leetcode-answers/tree/master/3791-fruits-into-baskets-iii) |
 | [3994-find-the-least-frequent-digit](https://github.com/msboffl/leetcode-answers/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/msboffl/leetcode-answers/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/msboffl/leetcode-answers/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/msboffl/leetcode-answers/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/msboffl/leetcode-answers/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/msboffl/leetcode-answers/tree/master/4058-compute-alternating-sum) |
 ## Ordered Set
 |  |
 | ------- |
