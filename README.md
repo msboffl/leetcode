@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/msboffl/leetcode-answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/msboffl/leetcode-answers/tree/master/3791-fruits-into-baskets-iii) |
 | [3994-find-the-least-frequent-digit](https://github.com/msboffl/leetcode-answers/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/msboffl/leetcode-answers/tree/master/4008-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/msboffl/leetcode-answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/msboffl/leetcode-answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/msboffl/leetcode-answers/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/msboffl/leetcode-answers/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
 | ------- |
