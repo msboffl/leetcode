@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/msboffl/leetcode-answers/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/msboffl/leetcode-answers/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/msboffl/leetcode-answers/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
