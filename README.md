@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/msboffl/leetcode-answers/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/msboffl/leetcode-answers/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/msboffl/leetcode-answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/msboffl/leetcode-answers/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/msboffl/leetcode-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/msboffl/leetcode-answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/msboffl/leetcode-answers/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/msboffl/leetcode-answers/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/msboffl/leetcode-answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/msboffl/leetcode-answers/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/msboffl/leetcode-answers/tree/master/1791-richest-customer-wealth) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/msboffl/leetcode-answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/msboffl/leetcode-answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/msboffl/leetcode-answers/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/msboffl/leetcode-answers/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/msboffl/leetcode-answers/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/msboffl/leetcode-answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
