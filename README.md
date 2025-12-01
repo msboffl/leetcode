@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/msboffl/leetcode-answers/tree/master/1306-minimum-absolute-difference) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msboffl/leetcode-answers/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/msboffl/leetcode-answers/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/1510-find-lucky-integer-in-an-array) |
