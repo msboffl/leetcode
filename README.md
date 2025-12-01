@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/msboffl/leetcode-answers/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/msboffl/leetcode-answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/msboffl/leetcode-answers/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/msboffl/leetcode-answers/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/msboffl/leetcode-answers/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/msboffl/leetcode-answers/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/msboffl/leetcode-answers/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/msboffl/leetcode-answers/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/msboffl/leetcode-answers/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/msboffl/leetcode-answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/msboffl/leetcode-answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/msboffl/leetcode-answers/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/msboffl/leetcode-answers/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/msboffl/leetcode-answers/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/msboffl/leetcode-answers/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/msboffl/leetcode-answers/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/msboffl/leetcode-answers/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/msboffl/leetcode-answers/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
