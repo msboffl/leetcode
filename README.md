@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/msboffl/leetcode-answers/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/msboffl/leetcode-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/1929-concatenation-of-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/msboffl/leetcode-answers/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/msboffl/leetcode-answers/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2058-concatenation-of-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/msboffl/leetcode-answers/tree/master/0498-diagonal-traverse) |
 | [1505-create-target-array-in-the-given-order](https://github.com/msboffl/leetcode-answers/tree/master/1505-create-target-array-in-the-given-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/msboffl/leetcode-answers/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/msboffl/leetcode-answers/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/msboffl/leetcode-answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
