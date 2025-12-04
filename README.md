@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/msboffl/leetcode-answers/tree/master/0707-design-linked-list) |
 | [2169-simple-bank-system](https://github.com/msboffl/leetcode-answers/tree/master/2169-simple-bank-system) |
 ## Counting Sort
 |  |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/msboffl/leetcode-answers/tree/master/0707-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/msboffl/leetcode-answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
