@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/msboffl/leetcode-answers/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/msboffl/leetcode-answers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/msboffl/leetcode-answers/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/msboffl/leetcode-answers/tree/master/0075-sort-colors) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/msboffl/leetcode-answers/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0707-design-linked-list](https://github.com/msboffl/leetcode-answers/tree/master/0707-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/msboffl/leetcode-answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
