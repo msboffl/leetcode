@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/msboffl/leetcode-answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/msboffl/leetcode-answers/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/msboffl/leetcode-answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/msboffl/leetcode-answers/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/msboffl/leetcode-answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/msboffl/leetcode-answers/tree/master/3582-find-indices-of-stable-mountains) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/msboffl/leetcode-answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/msboffl/leetcode-answers/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/msboffl/leetcode-answers/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/msboffl/leetcode-answers/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/msboffl/leetcode-answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/msboffl/leetcode-answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/msboffl/leetcode-answers/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/msboffl/leetcode-answers/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/msboffl/leetcode-answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/msboffl/leetcode-answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3531-count-covered-buildings](https://github.com/msboffl/leetcode-answers/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/msboffl/leetcode-answers/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/msboffl/leetcode-answers/tree/master/3778-transform-array-by-parity) |
 ## Counting
