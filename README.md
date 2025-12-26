@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/msboffl/leetcode-answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/msboffl/leetcode-answers/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/msboffl/leetcode-answers/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/msboffl/leetcode-answers/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/msboffl/leetcode-answers/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/msboffl/leetcode-answers/tree/master/3379-score-of-a-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/msboffl/leetcode-answers/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/msboffl/leetcode-answers/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/msboffl/leetcode-answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/msboffl/leetcode-answers/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/msboffl/leetcode-answers/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/msboffl/leetcode-answers/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/msboffl/leetcode-answers/tree/master/3731-sum-of-variable-length-subarrays) |
