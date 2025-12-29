@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/msboffl/leetcode-answers/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/msboffl/leetcode-answers/tree/master/0388-longest-absolute-file-path) |
 | [2092-find-all-people-with-secret](https://github.com/msboffl/leetcode-answers/tree/master/2092-find-all-people-with-secret) |
 ## Tree
@@ -572,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/msboffl/leetcode-answers/tree/master/2092-find-all-people-with-secret) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/msboffl/leetcode-answers/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
