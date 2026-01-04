@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/msboffl/leetcode-answers/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/msboffl/leetcode-answers/tree/master/1306-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/msboffl/leetcode-answers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/msboffl/leetcode-answers/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/msboffl/leetcode-answers/tree/master/1470-shuffle-the-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/msboffl/leetcode-answers/tree/master/0900-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/msboffl/leetcode-answers/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/msboffl/leetcode-answers/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/msboffl/leetcode-answers/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/msboffl/leetcode-answers/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
