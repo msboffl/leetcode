@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/msboffl/leetcode-answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/msboffl/leetcode-answers/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1975-maximum-matrix-sum](https://github.com/msboffl/leetcode-answers/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/msboffl/leetcode-answers/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/msboffl/leetcode-answers/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/msboffl/leetcode-answers/tree/master/2102-find-the-middle-index-in-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/msboffl/leetcode-answers/tree/master/1791-richest-customer-wealth) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/msboffl/leetcode-answers/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/msboffl/leetcode-answers/tree/master/1975-maximum-matrix-sum) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/msboffl/leetcode-answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/msboffl/leetcode-answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/msboffl/leetcode-answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/msboffl/leetcode-answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/msboffl/leetcode-answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/msboffl/leetcode-answers/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/msboffl/leetcode-answers/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/msboffl/leetcode-answers/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/msboffl/leetcode-answers/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/msboffl/leetcode-answers/tree/master/3074-apple-redistribution-into-boxes) |
