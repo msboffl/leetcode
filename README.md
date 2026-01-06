@@ -559,12 +559,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/msboffl/leetcode-answers/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/msboffl/leetcode-answers/tree/master/0388-longest-absolute-file-path) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/msboffl/leetcode-answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/msboffl/leetcode-answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/msboffl/leetcode-answers/tree/master/2092-find-all-people-with-secret) |
 ## Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/msboffl/leetcode-answers/tree/master/0700-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/msboffl/leetcode-answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -573,9 +575,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/msboffl/leetcode-answers/tree/master/0700-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/msboffl/leetcode-answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/msboffl/leetcode-answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/msboffl/leetcode-answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/msboffl/leetcode-answers/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
