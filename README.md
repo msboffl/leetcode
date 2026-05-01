@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/msboffl/leetcode-answers/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/msboffl/leetcode-answers/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/msboffl/leetcode-answers/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/msboffl/leetcode-answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/msboffl/leetcode-answers/tree/master/0485-max-consecutive-ones) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msboffl/leetcode-answers/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/msboffl/leetcode-answers/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/msboffl/leetcode-answers/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/msboffl/leetcode-answers/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/msboffl/leetcode-answers/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/msboffl/leetcode-answers/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/msboffl/leetcode-answers/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/msboffl/leetcode-answers/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/msboffl/leetcode-answers/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/msboffl/leetcode-answers/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/msboffl/leetcode-answers/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/msboffl/leetcode-answers/tree/master/0826-soup-servings) |
