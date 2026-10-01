@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/msboffl/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/msboffl/leetcode-answers/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0345-reverse-vowels-of-a-string) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0020-valid-parentheses) |
 | [0388-longest-absolute-file-path](https://github.com/msboffl/leetcode-answers/tree/master/0388-longest-absolute-file-path) |
 | [1628-count-submatrices-with-all-ones](https://github.com/msboffl/leetcode-answers/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
@@ -606,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/msboffl/leetcode-answers/tree/master/0386-lexicographical-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
