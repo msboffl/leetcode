@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/msboffl/leetcode-answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/msboffl/leetcode-answers/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0345-reverse-vowels-of-a-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/msboffl/leetcode-answers/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/msboffl/leetcode-answers/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/msboffl/leetcode-answers/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/msboffl/leetcode-answers/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/msboffl/leetcode-answers/tree/master/0396-rotate-function) |
@@ -612,4 +615,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
