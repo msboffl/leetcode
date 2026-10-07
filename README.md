@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/msboffl/leetcode-answers/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/msboffl/leetcode-answers/tree/master/0345-reverse-vowels-of-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/msboffl/leetcode-answers/tree/master/0388-longest-absolute-file-path) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/msboffl/leetcode-answers/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/msboffl/leetcode-answers/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/msboffl/leetcode-answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/msboffl/leetcode-answers/tree/master/0301-remove-invalid-parentheses) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/msboffl/leetcode-answers/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/msboffl/leetcode-answers/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/msboffl/leetcode-answers/tree/master/2092-find-all-people-with-secret) |
